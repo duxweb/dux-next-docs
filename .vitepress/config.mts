@@ -47,7 +47,7 @@ export default withMermaid({
         {
           text: '应用',
           items: [
-            {text: '应用资源', link: '/application/life'},
+            {text: '应用资源', link: '/application/resource'},
             {text: '数据模型', link: '/application/life'},
             {text: '事件调度', link: '/application/life'},
             {text: '自定义菜单', link: '/application/directory'},
