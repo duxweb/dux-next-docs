@@ -80,6 +80,24 @@ export default {
         'collapsible-down': 'collapsible-down 0.2s ease-in-out',
         'collapsible-up': 'collapsible-up 0.2s ease-in-out',
       },
+      letterSpacing: {
+        tight: '0',
+      },
+      lineHeight: {
+        '7': '2rem',
+      },
+      padding: {
+        '1': '0.6rem',
+        '2': '0.8rem',
+        '3': '1rem',
+      },
+      fontSize: {
+        'lg': '1rem',
+        '2xl': '1.2rem',
+        '3xl': '1.5rem',
+        '4xl': '1.8rem', // 40px
+        '5xl': '2rem',   // 48px
+      }
     },
   },
 
