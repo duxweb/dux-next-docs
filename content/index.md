@@ -22,7 +22,7 @@ Dux Next<br>中后台管理系统
 ::
 
 
-<div class="border rounded-lg shadow-md mx-auto">
-  <img src="/images/topic.png" />
+<div class="flex justify-center">
+  <img src="/images/topic.png" class="border rounded-lg shadow-md mx-auto" />
 </div>
 
