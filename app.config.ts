@@ -17,7 +17,65 @@ export default defineAppConfig({
         light: '/logo.svg',
         dark: '/logo-dark.svg',
       },
-      nav: [],
+      nav: [
+        {
+          title: "开发文档",
+          links: [
+            {
+              title: '基础开发',
+              description: 'Dux Next 开发必要指引',
+              icon: 'lucide:github',
+              to: '/guide/start',
+            },
+            {
+              title: '后端开发',
+              description: 'Dux Next 后端 PHP 开发文档',
+              icon: 'lucide:github',
+              to: '/php/info',
+            },
+            {
+              title: '前端开发',
+              description: 'Dux Refine 前端 React 开发文档',
+              icon: 'tabler:brand-react',
+              to: '/react/info',
+            }
+          ]
+        },
+        {
+          title: "学习资源",
+          links: [
+            {
+              title: 'Slim',
+              description: 'Slim PHP 开发文档',
+              to: 'https://www.slimframework.com/',
+              target: '_blank'
+            },
+            {
+              title: 'Slim',
+              description: 'Slim PHP 开发文档',
+              to: 'https://www.slimframework.com/',
+              target: '_blank'
+            },
+            {
+              title: 'refine',
+              description: 'Dux Refine 开发文档',
+              to: 'https://refine.dev/',
+              target: '_blank'
+            },
+            {
+              title: 'Eloquent ORM',
+              description: 'Eloquent ORM 开发文档',
+              to: 'https://learnku.com/docs/laravel/10.x/eloquent/14888#d66211',
+              target: '_blank'
+            }
+          ]
+        },
+        {
+          title: "官方网站",
+          to: 'https://www.dux.cn',
+          target: '_blank'
+        }
+      ],
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/duxweb/duxcms',

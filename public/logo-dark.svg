@@ -1,17 +1,1 @@
-<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_2_2)">
-<g clip-path="url(#clip1_2_2)">
-<path d="M252 172L172 252" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M236 84L84 236" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<rect x="8" y="8" width="284" height="284" rx="22" stroke="white" stroke-width="16"/>
-</g>
-<defs>
-<clipPath id="clip0_2_2">
-<rect width="300" height="300" fill="white"/>
-</clipPath>
-<clipPath id="clip1_2_2">
-<rect width="256" height="256" fill="white" transform="translate(44 44)"/>
-</clipPath>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202.97 197.7"  fill="#ffffff"><path d="M170,94.52l-35.9-20.73-24.34,14,11.62,6.71a5,5,0,0,1,0,8.66L32.5,154.52a5,5,0,0,1-7.5-4.33V99.61a6.44,6.44,0,0,1,0-1.52V47.51a5,5,0,0,1,7.5-4.33l35,20.23,24.32-14L7.5.68A5,5,0,0,0,0,5V192.69A5,5,0,0,0,7.5,197L170,103.18A5,5,0,0,0,170,94.52Z"/><path d="M32.93,103.18l35.9,20.73,24.34-14-11.62-6.71a5,5,0,0,1,0-8.66l88.92-51.34a5,5,0,0,1,7.5,4.33V98.09a6.44,6.44,0,0,1,0,1.52v50.58a5,5,0,0,1-7.5,4.33l-35-20.23-24.32,14L195.47,197a5,5,0,0,0,7.5-4.33V5a5,5,0,0,0-7.5-4.33L32.93,94.52A5,5,0,0,0,32.93,103.18Z"/></svg>

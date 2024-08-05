@@ -5,13 +5,9 @@ navigation: false
 
 ::hero
 ---
-announcement:
-  title: 'Release v0.4.3'
-  icon: 'noto:party-popper'
-  to: /getting-started/changelog
 actions:
   - name: 快速开始
-    to: /getting-started
+    to: /guide/start
   - name: GitHub
     variant: outline
     to: https://github.com/duxweb/duxcms
@@ -25,6 +21,8 @@ Dux Next<br>中后台管理系统
 简单、易用、高效的 headless 开发框架
 ::
 
-<div class="border rounded-lg shadow-md">
+
+<div class="border rounded-lg shadow-md mx-auto">
   <img src="/images/topic.png" />
 </div>
+
