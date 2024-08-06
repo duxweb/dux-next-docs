@@ -51,9 +51,9 @@ export default defineAppConfig({
               target: '_blank'
             },
             {
-              title: 'Slim',
-              description: 'Slim PHP 开发文档',
-              to: 'https://www.slimframework.com/',
+              title: 'Eloquent ORM',
+              description: 'Eloquent ORM 开发文档',
+              to: 'https://learnku.com/docs/laravel/10.x/eloquent/14888#d66211',
               target: '_blank'
             },
             {
@@ -63,11 +63,11 @@ export default defineAppConfig({
               target: '_blank'
             },
             {
-              title: 'Eloquent ORM',
-              description: 'Eloquent ORM 开发文档',
-              to: 'https://learnku.com/docs/laravel/10.x/eloquent/14888#d66211',
+              title: 'TDesign',
+              description: 'TDesign React 开发文档',
+              to: 'tdesign.tencent.com/react',
               target: '_blank'
-            }
+            },
           ]
         },
         {
