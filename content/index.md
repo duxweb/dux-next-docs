@@ -8,6 +8,9 @@ navigation: false
 actions:
   - name: 快速开始
     to: /guide/start
+  - name: 演示体验
+    to: http://example.next.dux.cn/manage
+    target: '_blank'
   - name: GitHub
     variant: outline
     to: https://github.com/duxweb/duxcms
